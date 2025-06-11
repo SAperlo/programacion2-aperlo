@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        Persona persona = new Persona("Simon", "Perez", "12345678", 20, "Calle Falsa 123", "1122334455");
+        Persona persona = new Persona("Simon", "Perez", "45835771", 20, "Murillo 172", "3541580938");
         persona.saludar();
         persona.mostrarInformacion();
     }
